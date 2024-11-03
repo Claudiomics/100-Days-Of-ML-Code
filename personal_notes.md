@@ -16,7 +16,8 @@ It includes:
 
 # Day 2: Simple Linear Regression
 
-Work can be found in day_2_simple_linear_regression.ipynb.
+Work can be found in day_2_simple_linear_regression.ipynb. 
+The aim is to predict the percentage of marks a student is supposed to get based on hours studied.
 
 It includes:
 1. Preprocessing the data
@@ -24,4 +25,12 @@ It includes:
 3. Predicting the result
 4. Visualisation
 
-# Day 3: 
+# Day 3: Multiple Linear Regression
+
+Work can be found in day_3_multiple_linear_regression.ipynb.
+The aim is to model the relationship between two or more features and a response by fitting a linear equation to observed data. The most important factor that influences the predicted outcome can also be assessed.
+
+It includes:
+1. Preprocessing the Data
+2. Fitting our Model to the Training Set
+3. Predicting the Test Results
